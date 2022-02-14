@@ -9,4 +9,6 @@ mariamontserrat
 
 The password is the same as the username.
 
+just-a-chat.netlify.app
+
 Hope you like it!
